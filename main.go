@@ -1,5 +1,7 @@
 package dev
 
+import "fmt"
+
 func Dev() {
-	print(3)
+	fmt.Print(2)
 }
